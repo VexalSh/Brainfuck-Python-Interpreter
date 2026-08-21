@@ -1,5 +1,5 @@
 # Brainfuck Interpreter
-# Author: rapntrin
+# Author: VexalSh
 # Information on Brainfuck: https://wikipedia.org/wiki/Brainfuck
 
 import math
